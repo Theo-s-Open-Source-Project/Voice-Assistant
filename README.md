@@ -10,8 +10,9 @@
 
 底板（v1.1）
 
-![voice_assistant_top](Image/voice_assistant_top.png)
-![voice_assistant_bottom](Image/voice_assistant_bottom.png)
+<div align=center>
+<img src="https://github.com/Theo-s-Open-Source-Project/Voice-Assistant/blob/main/Image/voice_assistant_top.png" width="300"/> <img src="https://github.com/Theo-s-Open-Source-Project/Voice-Assistant/blob/main/Image/voice_assistant_bottom.png" width="300"/>
+</div>
 
 目前已实现：
 
